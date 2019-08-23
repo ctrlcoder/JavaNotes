@@ -3,4 +3,4 @@
 
 - Java
   - [数据类型](java/data_type.md) 	
-  - [mall学习所需知识点](foreword/mall_foreword.md)
+  - [mall学习所需知识点](java/mall_foreword.md)
