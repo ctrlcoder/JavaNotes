@@ -46,6 +46,4 @@
 ## 结语
 > 如果你按照我的推荐看了以上部分的资料，或者你已经有了以上部分的基础，那么你学习mall的时候会非常顺利。
 
-## 公众号
 
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
