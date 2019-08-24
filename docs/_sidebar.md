@@ -1,4 +1,4 @@
 - 测试
-  - [test](java/test.md)
+  - [数据类型](java/数据类型.md)
   
 
