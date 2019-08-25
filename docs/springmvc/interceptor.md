@@ -1,20 +1,20 @@
 ### 拦截器的概述
 
-1. SpringMVC框架中的拦截器用于对处理器进行预处理和后处理的技术。
+1. SpringMVC 框架中的拦截器用于对处理器进行预处理和后处理的技术。
 2. 可以定义拦截器链，连接器链就是将拦截器按着一定的顺序结成一条链，在访问被拦截的方法时，拦截器链中的拦截器会按着定义的顺序执行。
 3. 拦截器和过滤器的功能比较类似，有**区别**
-   1. 过滤器是Servlet规范的一部分，任何框架都可以使用过滤器技术。
-   2. 拦截器是SpringMVC框架独有的。
+   1. 过滤器是 Servlet 规范的一部分，任何框架都可以使用过滤器技术。
+   2. 拦截器是 SpringMVC 框架独有的。
    3. 过滤器配置了/\*，可以拦截任何资源。
    4. **拦截器只会对控制器中的方法进行拦截。**
-4. 拦截器也是AOP思想的一种实现方式
-5. 想要自定义拦截器，需要实现HandlerInterceptor接口。
+4. 拦截器也是 AOP 思想的一种实现方式
+5. 想要自定义拦截器，需要实现 HandlerIntercepto r接口。
 
 
 
 ### 定义拦截器
 
-创建类，**实现HandlerInterceptor接口，重写需要的方法**
+创建类，**实现 HandlerInterceptor 接口，重写需要的方法**
 
 ```java
 public interface HandlerInterceptor {
@@ -113,6 +113,5 @@ public interface HandlerInterceptor {
 
 - **多拦截器的执行流程**
 
-![img](../../img/assets_2019/1173674-20190412212035443-2023243854-1564906511127.png)
+>  preHandler顺序执行，postHandler和afterCompletion逆序执行
 
-	**preHandler顺序执行，postHandler和afterCompletion逆序执行**

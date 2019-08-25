@@ -2,12 +2,23 @@
   - [数据类型](java/data_type.md)
   - [数组](java/array.md)
   - [字符串](java/string.md)
+  - [枚举](java/enum.md)
+  - [泛型](java/generic.md)
+  - [正则表达式](java/regex.md)
+- Spring
+  - [接口和注解](spring\annotation.md)
 - Spring MVC
   - [接口和注解](springmvc\annotation.md)
   - [json交互](springmvc\json.md)
   - [前后端数据交互](springmvc/post_data.md)
   - [拦截器](springmvc/interceptor.md)
+- Spring Boot
+  - [启动初始化](springboot/runner.md)
+  - [MVC配置](springboot/mvc_config.md)
+  - [过滤器](springboot/filter.md)
+  - [Spring Data JPA](springboot/jpa.md)
 - 笔记
   - [RESTEasy](note/resteasy.md)
   - [Minio](note/minio.md)
+  - [静态类注入Bean](note/inject.md)
 
