@@ -3,4 +3,4 @@
 # JavaNotes
 
 [GitHub](https://github.com/ctrlcoder/JavaNotes)
-[开始](README.md) 
+[开始](README.md)

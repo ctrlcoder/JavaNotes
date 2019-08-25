@@ -1,4 +1,13 @@
-- 测试
-  - [数据类型](java/数据类型.md)
-  
+- Java 基础
+  - [数据类型](java/data_type.md)
+  - [数组](java/array.md)
+  - [字符串](java/string.md)
+- Spring MVC
+  - [接口和注解](springmvc\annotation.md)
+  - [json交互](springmvc\json.md)
+  - [前后端数据交互](springmvc/post_data.md)
+  - [拦截器](springmvc/interceptor.md)
+- 笔记
+  - [RESTEasy](note/resteasy.md)
+  - [Minio](note/minio.md)
 
