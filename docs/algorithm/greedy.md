@@ -1,6 +1,4 @@
-贪心算法有很多经典的应用，比如霍夫曼编码（Huffman Coding）、Prim和Kruskal最小生成树算法、还 
-
-有Dijkstra单源最短路径算法。
+>  贪心算法有很多经典的应用，比如霍夫曼编码（Huffman Coding）、Prim和Kruskal最小生成树算法、还有Dijkstra单源最短路径算法。
 
 ## 贪心算法解决问题的步骤
 
