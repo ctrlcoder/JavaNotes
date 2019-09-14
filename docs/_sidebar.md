@@ -22,5 +22,5 @@
   - [Minio](note/minio.md)
   - [静态类注入Bean](note/inject.md)
 - 算法
-  - [静态类注入Bean](alhorithm/greedy.md)
+  - [贪心算法](algorithm/greedy.md)
 
