@@ -23,4 +23,12 @@
   - [静态类注入Bean](note/inject.md)
 - 算法
   - [贪心算法](algorithm/greedy.md)
+- JVM
+  - [Java内存模型](jvm/1.md)
+  - [Java垃圾回收](jvm/2.md)
+- 数据库
+  - [MySQL语句](sql/1.md)
+  - [完整性约束](sql/2.md)
+
+
 
