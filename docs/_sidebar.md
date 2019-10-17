@@ -29,7 +29,7 @@
   - [Java内存模型](jvm/1.md)
   - [Java垃圾回收](jvm/2.md)
 - 并发
-  - [1](concurrent/1.md)
+  - [多线程基础](juc/多线程基础.md)
 - 数据库
   - [MySQL语句](sql/1.md)
   - [完整性约束](sql/2.md)
